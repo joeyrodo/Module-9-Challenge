@@ -1,6 +1,6 @@
 # Module 9 Challenge: README Generator
 
-[Video Demonstration](https://drive.google.com/file/d/170U5UkGOyIwZBnypjb0M7hNa8aLPu6Pu/view)
+[Video Demonstration](https://drive.google.com/file/d/1PKXospnStvzySPc8EgE4GIqIQN0PHIj-/view)
 
 ## Table of Contents
 - [Description](#description)
@@ -18,10 +18,10 @@
 - Install the code and have node js installed to run the program.
 
 ## Usage
-- Locate the Develop folder in the terminal and enter "node index.js" to start the program.
+- Locate the folder in the terminal and enter "node index.js" to start the program.
 
 ## Tests
-- Enter "node index.js" in the develop folder in the terminal, answer the questions, and check the README.md file that is created in the folder afterwards.
+- Enter "node index.js" in the folder in the terminal, answer the questions, and check the README.md file that is created in the folder afterwards.
 
 ## Contributing
 - This project will not feature any contributions.
